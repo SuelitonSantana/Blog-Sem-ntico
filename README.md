@@ -1,7 +1,7 @@
 # 📰 Blog Responsivo com HTML Semântico
 
 Este projeto é um blog desenvolvido com foco em **estrutura semântica** e **design responsivo**, garantindo acessibilidade, organização e ótima experiência de leitura em qualquer dispositivo.
-
+ https://suelitonsantana.github.io/Blog-Sem-ntico/
 ## ✨ Principais características
 
 - ✅ **HTML semântico**: uso de tags como `<header>`, `<main>`, `<section>`, `<article>`, `<footer>` para estruturar o conteúdo de forma clara e otimizada para SEO.
